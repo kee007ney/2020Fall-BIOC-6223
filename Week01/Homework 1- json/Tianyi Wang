@@ -1,0 +1,23 @@
+{
+	"dataset_categories": [{
+		"name": "EGFR",
+		"length_in_bp": "1858",
+		"Accession_number": "AB025197"
+	}, {
+		"name": "APP",
+		"length_in_bp": "644",
+		"Accession_number": "AY011354"
+	}, {
+		"name": "ACTL6B",
+		"length_in_bp": "1541",
+		"Accession_number": "NR_134539 XR_927476"
+	}, {
+		"name": "RBFOX1",
+		"length_in_bp": "1320",
+		"Accession_number": "KJ894055"
+	}, {
+		"name": "BRCA1",
+		"length_in_bp": "698",
+		"Accession_number": "AY211956"
+	}]
+}
