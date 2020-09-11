@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json_schema.org/draft-07/schema#",
-	"%id": "http://github.com/cdillard49/2020Fall-BIOC-6223/blob/master/week01/Homework 1 Dillard/cdillard_genes.json",
+	"%id": "http://github.com/cdillard49/2020Fall-BIOC-6223/blob/master/week01/Homework 1 Dillard/cdillard_gene.json",
 	"type": "object",
 	"properties": {
 		"gene_data": {
