@@ -1,0 +1,30 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id": "",
+	"type": "objects",
+	"required": [
+		"name",
+		"length_in_bp",
+		"Accession_number"
+	],
+	"properties": {
+		"name": {
+			"type": "string",
+			"example": [
+				"EGFR"
+			]
+		},
+		"length_in_bp": {
+			"type": "number",
+			"example": [
+				"1858"
+			]
+		},
+		"Accession_number": {
+			"type": "string",
+			"example": [
+				"AB025197"
+			]
+		}
+	}
+}
