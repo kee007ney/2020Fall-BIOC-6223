@@ -1,0 +1,23 @@
+{
+	"gene_data": [{
+		"gene_name": "Mycoplasma hyorhinis SK76",
+		"gene_bplength": 836897,
+		"gene_accession": "NC_019552"
+	}, {
+		"gene_name": "Mus pahari mitochondrion",
+		"gene_bplength": 16286,
+		"gene_accession": "NC_036680"
+	}, {
+		"gene_name": "Homo sapiens chromosome 1",
+		"gene_bplength": 248956422,
+		"gene_accession": "NC_000001"
+	}, {
+		"gene_name": "Homo sapiens chromosome 2",
+		"gene_bplength": 242193529,
+		"gene_accession": "NC_000002"
+	}, {
+		"gene_name": "Homo sapiens chromosome 19",
+		"gene_bplength": 58617616,
+		"gene_accession": "NC_000019"
+	}]
+}
