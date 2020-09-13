@@ -1,30 +1,30 @@
 {
- "$schema":"http://json-schema.org/draft-07/schema#",
- "$id": "https://github.com/kee007ney/2020Fall-BIOC6223/blob/master/Week01/andrealangeland_genes.json"
- "type": "object",
- "required": [
-   "gene_name",
-   "gene_bplength",
-   "gene_accession"
- ],
- "properties": {
-  "gene_name": {
-         "type": "string",
-         "examples": [
-            "Mycoplasma hyorhinis SK76"
-          ]  
-  }
-  "gene_length": {
-         "type": "number",
-         "examples": [
-             836897
-         ]
-  }
-  "gene_accession": {
-         "type": "string",
-         "examples": [
-            "NC_019552"
-         ]
-  }    
- }
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id": "https://github.com/kee007ney/2020Fall-BIOC6223/blob/master/Week01/andrealangeland_genes.json",
+	"type": "object",
+	"required": [
+		"gene_name",
+		"gene_bplength",
+		"gene_accession"
+	],
+	"properties": {
+		"gene_name": {
+			"type": "string",
+			"examples": [
+				"Mycoplasma hyorhinis SK76"
+			]
+		},
+		"gene_length": {
+			"type": "number",
+			"examples": [
+				836897
+			]
+		},
+		"gene_accession": {
+			"type": "string",
+			"examples": [
+				"NC_019552"
+			]
+		}
+	}
 }
