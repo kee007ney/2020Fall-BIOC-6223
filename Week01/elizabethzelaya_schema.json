@@ -1,0 +1,105 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"type": "object",
+	"properties": {
+		"genes": {
+			"type": "array",
+			"items": [{
+					"type": "object",
+					"properties": {
+						"name": {
+							"type": "string"
+						},
+						"length (bp)": {
+							"type": "integer"
+						},
+						"accession": {
+							"type": "string"
+						}
+					},
+					"required": [
+						"name",
+						"length (bp)",
+						"accession"
+					]
+				},
+				{
+					"type": "object",
+					"properties": {
+						"name": {
+							"type": "string"
+						},
+						"length (bp)": {
+							"type": "integer"
+						},
+						"accession": {
+							"type": "string"
+						}
+					},
+					"required": [
+						"name",
+						"length (bp)",
+						"accession"
+					]
+				},
+				{
+					"type": "object",
+					"properties": {
+						"name": {
+							"type": "string"
+						},
+						"length (bp)": {
+							"type": "integer"
+						},
+						"accession": {
+							"type": "string"
+						}
+					},
+					"required": [
+						"name",
+						"length (bp)",
+						"accession"
+					]
+				},
+				{
+					"type": "object",
+					"properties": {
+						"name": {
+							"type": "string"
+						},
+						"length (bp)": {
+							"type": "integer"
+						},
+						"accession": {
+							"type": "string"
+						}
+					},
+					"required": [
+						"name",
+						"length (bp)",
+						"accession"
+					]
+				},
+				{
+					"type": "object",
+					"properties": {
+						"name": {
+							"type": "string"
+						},
+						"length (bp)": {
+							"type": "integer"
+						},
+						"accession": {
+							"type": "string"
+						}
+					},
+					"required": [
+						"name",
+						"length (bp)",
+						"accession"
+					]
+				}
+			]
+		}
+	}
+}	
