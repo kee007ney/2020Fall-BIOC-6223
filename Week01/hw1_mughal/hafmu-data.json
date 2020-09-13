@@ -1,0 +1,29 @@
+{
+  "genes": [
+    {
+      "name": "Homo sapiens interleukin 6 (IL6), RefSeqGene on chromosome 7",
+      "length": 11856,
+      "accession_number": "NG_011640.1"
+    },
+    {
+      "name": "Homo sapiens partial TGFB1 gene for transforming growth factor, beta 1, allele TGFB1*p036, exon 1",
+      "length": 2888,
+      "accession_number": "LM651059.1"
+    },
+    {
+      "name": "Homo sapiens clone RKIR10 methylenetetrahydrofolate reductase (MTHFR) gene, partial cds",
+      "length": 216,
+      "accession_number": "KY652722.1"
+    },
+    {
+      "name": "Pan troglodytes ESR1 (ESR1) gene, partial cds",
+      "length": 1998,
+      "accession_number": "DQ977391.1"
+    },
+    {
+      "name": "Drosophila melanogaster gawky (gw), transcript variant J, mRNA",
+      "length": 5716,
+      "accession_number": "NM_001014691.3"
+    }
+  ]
+}
