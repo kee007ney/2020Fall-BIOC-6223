@@ -1,0 +1,23 @@
+{
+	"GeneData": [{
+		"Gene_Name": "TP53",
+		"Gene_Length": 123,
+		"Gene_ID": "MH011443"
+	}, {
+		"Gene_Name": "TGFBI",
+		"Gene_Length": 475,
+		"Gene_ID": "DQ512872"
+	}, {
+		"Gene_Name": "ApoE",
+		"Gene_Length": 138,
+		"Gene_ID": "KY560197"
+	}, {
+		"Gene_Name": "IL6",
+		"Gene_Length": 1108,
+		"Gene_ID": "NM_173923"
+	}, {
+		"Gene_Name": "BRCA",
+		"Gene_Length": 607,
+		"Gene_ID": "MK607721"
+	}]
+} 
