@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/kee007ney/2020Fall-BIOC-6223/master/Week01/hw1_mughal/hafmu-schema.json",
+  "type": "object",
+  "properties": {
+    "genes": {
+      "type": "array",
+      "minItems": 5,
+      "maxItems": 5,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "length": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "accession_number": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "length",
+          "accession_number"
+        ]
+      }
+    }
+  },
+  "required": [
+    "genes"
+  ]
+}
