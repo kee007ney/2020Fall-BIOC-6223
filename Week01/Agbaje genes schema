@@ -1,0 +1,33 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id": "https://github.com/kee007ney/2020Fall-BIOC-6223/blob/master/Week01/Seun_Schema",
+	"type": "object",
+	"properties": {
+		"myGenes": {
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/myGenes"
+			}
+		}
+	},
+	"definitions": {
+		"myGenes": {
+			"type": "object",
+			"required": ["Name", "Length", "Accession"],
+			"properties": {
+				"Name": {
+					"type": "string",
+					"description": "name of the gene"
+				},
+				"Length": {
+					"typee": "number",
+					"description": "number of base pairs"
+				},
+				"Accession": {
+					"type": "string",
+					"description": "Accession number"
+				}
+			}
+		}
+	}
+}
