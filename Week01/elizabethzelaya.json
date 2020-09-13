@@ -1,0 +1,23 @@
+{
+	"genes": [{
+		"name": "s surface glycoprotein",
+		"length (bp)": 3822,
+		"accession number": "NC_045512"
+	}, {
+		"name": "nucleocapsid phosphoprotein",
+		" length (bp)": 1260,
+		"accession number": "NC_045512"
+	}, {
+		"name": "envelope protein",
+		" length (bp)": 228,
+		"accession number": "NC_045512"
+	}, {
+		"name": "ACE2",
+		" length (bp)": 83962,
+		"accession number": "NC_000023"
+	}, {
+		"name": "TMPRSS2",
+		" length (bp)": 43854,
+		"accession number": "NC_000021"
+	}]
+}
