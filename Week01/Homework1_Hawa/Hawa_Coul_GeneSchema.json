@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#", 
+	"$id": "https://github.com/kee007ney/2020Fall-BIOC-6223/blob/master/Week01/Hawa_Coul_GeneSchema.json",  
+	"type": "object",
+	"required": [
+		"Gene_Name", 
+		"Gene_Length", 
+		"Gene_ID"
+	],
+	"properties": {
+		"Gene_Name": {  
+			"type": "string", 
+			"examples": [
+				"TP53"
+			]
+		},
+		"Gene_Length": {  
+			"type": "integer", 
+			"examples": [
+				123
+			]
+		},
+		"Gene_ID": { 
+			"type": "string", 
+			"examples": [
+				"MH011443"
+			]			
+		}
+	}
+}
