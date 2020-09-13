@@ -1,0 +1,23 @@
+{
+	"dataset_categories": [{
+		"name": "TP53",
+		"length_in_bp": "123",
+		"Accession_number": "MH011443"
+	}, {
+		"name": "BRCA2",
+		"length_in_bp": "11934",
+		"Accession_number": "EF523433"
+	}, {
+		"name": "ATM",
+		"length_in_bp": "1074",
+		"Accession_number": "AB026548"
+	}, {
+		"name": "BRCA1",
+		"length_in_bp": "698",
+		"Accession_number": "AY211956"
+	}, {
+		"name": "CHEK2",
+		"length_in_bp": "1792",
+		"Accession_number": "CU013267"
+	}]
+}
