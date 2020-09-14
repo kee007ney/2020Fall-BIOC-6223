@@ -1,0 +1,22 @@
+"gene_data": [{
+		"gene_name": "ACE2",
+		"gene_bplength": 90962,
+		"Accession_number": "NG_012575"
+	}, {
+		"gene_name": "CHEK2",
+		"gene_bplength": 1841,
+		"Accession_number": "CR45618"
+	}, {
+		"gene_name": "TMPRSS2",
+		"gene_bplength": 43854,
+		"Accession_number": "NC_000021"
+	}, {
+		"gene_name": "JAG1",
+		"gene_bplength": 43363,
+		"Accession_number": "NG_007496"
+	}, {
+		"gene_name": "SOX10",
+		"gene_bplength": 19221,
+		"Accession_number": "NG_007948"
+	}]
+}

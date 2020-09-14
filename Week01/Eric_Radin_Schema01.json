@@ -1,0 +1,19 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id": "https://github.com/kee007ney/2020Fall-BIOC-6223/blob/master/Week01/EricRadin_schema.json",
+	"type": "objects",
+	"required": ["gene_name","bp_length","Accession_number"],
+	"properties": {
+	"gene_name": {
+			"type": "string",
+			"example": ["BRCA1"]
+		},
+		"bp_length": {
+			"type": "number",
+			"example": ["193689"]
+		},
+		"Accession_number": {
+			"type": "string",
+			"example": ["NG_005905"]
+		}
+	}
