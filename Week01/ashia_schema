@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#",
-	"$id": "https://github.com/kee007ney/2020Fall-BIOC-6223/blob/master/Week01/Ashia_Schema",
+	"$id": "https://github.com/kee007ney/2020Fall-BIOC-6223/blob/master/Week01/ashia_schema",
 	"type": "object",
 	"properties": {
 		"nucleotide_name": {
