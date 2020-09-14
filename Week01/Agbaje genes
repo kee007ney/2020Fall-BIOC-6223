@@ -1,0 +1,23 @@
+{
+	"myGenes": [{
+		"Name": "HBB",
+		"Length": 628,
+		"Accession": "NM_000518"
+	}, {
+		"Name": "GRCh38.p13",
+		"Length": 198295559,
+		"Accession": "NC_000003"
+	}, {
+		"Name": "RP23-300A10",
+		"Length": 175471,
+		"Accession": "AC110566"
+	}, {
+		"Name": "Sea Urchin histones",
+		"Length": 6700,
+		"Accession": "V01144"
+	}, {
+		"Name": "JAK3",
+		"Length": 5786,
+		"Accession": "NM_000215"
+	}]
+}
