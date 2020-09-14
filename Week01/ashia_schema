@@ -1,0 +1,18 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id": "https://github.com/kee007ney/2020Fall-BIOC-6223/blob/master/Week01/Ashia_Schema",
+	"type": "object",
+	"properties": {
+		"nucleotide_name": {
+			"type": "string"
+		},
+		"length_in_bp": {
+			"type": "number"
+		},
+		"accession_number": {
+			"type": "number"
+		}
+
+	},
+	"required": ["nucleotide_name", "length_in_bp", "acession_number"]
+}
