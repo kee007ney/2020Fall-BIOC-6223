@@ -1,0 +1,20 @@
+{
+	"$schema": "http: //json-schema.org/draft-07/schema#",
+	"$id": "https://github.com/kee007ney/2020Fall-BIOC-6223/blob/master/Week01/ChanelCrawford.JSON",
+	"type": "object",
+	"required": ["Abberviation", "bp length", "Accession number"],
+	"properties": {
+		"Abbreviation": {
+			"type": "string",
+			"examples": ["BRCA1"]
+		},
+		"bp length": {
+			"type": "number",
+			"examples": ["193689"]
+		},
+		"Accession Number": {
+			"type": "string",
+			"examples": ["NG_005905"]
+		}
+	}
+}
