@@ -1,0 +1,28 @@
+{
+	"Gene Types": [{
+			"Abbreviation": "BRCA1",
+			"bp length": "193689",
+			"Accession number": "NG_005905"
+		},
+		{
+			"Abbreviation": "TYR",
+			"bp length": "124888",
+			"Accession number": "NG_008748"
+		},
+		{
+			"Abbreviation": "HBB",
+			"bp length": "10106",
+			"Accession number": "NG_059281"
+		},
+		{
+			"Abbreviation": "APOE",
+			"bp length": "10612",
+			"Accession number": "NG_007084"
+		},
+		{
+			"Abbreviation": "TCHH",
+			"bp length": "16138",
+			"Accession number": "NG_052960"
+		}
+	]
+}
