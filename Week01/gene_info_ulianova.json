@@ -1,0 +1,28 @@
+{
+	"gene": [{
+			"name": "BDNF",
+			"length": "67137",
+			"accessionNum": "P23560.1"
+		},
+		{
+			"name": "BHLHE41",
+			"length": "5007",
+			"accessionNum": "Q9C0J9.1"
+		},
+		{
+			"name": "TP53",
+			"length": "19148",
+			"accessionNum": "P04637.4"
+		},
+		{
+			"name": "AKT1",
+			"length": "26399",
+			"accessionNum": "P31749.2"
+		},
+		{
+			"name": "TERT",
+			"length": "41920",
+			"accessionNum": "O14746.1"
+		}
+	]
+}
