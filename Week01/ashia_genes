@@ -1,0 +1,28 @@
+{
+	"nucleotides": [{
+			"nucleotide_name": "CXCR6",
+			"length_in_bp": 1968,
+			"accession_number": "NM_006564"
+		},
+		{
+			"nucleotide_name": "LZTFL1",
+			"length_in_bp": 4026,
+			"accession_number": "NM_020347"
+		},
+		{
+			"nucleotide_name": "ABO",
+			"length_in_bp": 6478,
+			"accession_number": "NM_020469"
+		},
+		{
+			"nucleotide_name": "XCR1",
+			"length_in_bp": 5161,
+			"accession_number": "NM_005283"
+		},
+		{
+			"nucleotide_name": "SLC6A20",
+			"length_in_bp": 5425,
+			"accession_number": "NM_020208"
+		}
+	]
+}
