@@ -10,7 +10,7 @@
 			"type": "number"
 		},
 		"accession_number": {
-			"type": "number"
+			"type": "string"
 		}
 
 	},
