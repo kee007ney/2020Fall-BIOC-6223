@@ -1,0 +1,29 @@
+{
+	"Tyson's Favorite Genes" : [{
+		"Gene_1":{
+			"Name":"Homo sapiens interferon alpha-a (IFNA) gene, complete cds",
+			"Length":1733,
+			"Accession":"J00207.1"
+		},
+		"Gene_2":{
+			"Name":"Human leukocyte interferon (IFN-alpha) alpha-d gene",
+			"Length":1179,
+			"Accession":"J00210.1"
+		},
+		"Gene_3":{
+			"Name":"Human interferon alpha gene IFN-alpha 8",
+			"Length":633,
+			"Accession":"X03125.1"
+		},
+		"Gene_4":{
+			"Name":"Human interferon alpha gene IFN-alpha 13",
+			"Length":1108,
+			"Accession":"X00803.1"
+		},
+		"Gene_5":{
+			"Name":"Human gene for fibroblast (beta-1) interferon",
+			"Length":1835,
+			"Accession":"V00534.1"
+		}
+	}]
+}
