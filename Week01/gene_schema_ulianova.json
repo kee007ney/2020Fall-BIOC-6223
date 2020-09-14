@@ -1,5 +1,5 @@
 {
-  "$id": "",
+  "$id": "https://github.com/kee007ney/2020Fall-BIOC-6223/blob/master/Week01/gene_schema_ulianova.json",
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Genes",
   "type": "object",
