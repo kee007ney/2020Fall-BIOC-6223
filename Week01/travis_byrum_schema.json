@@ -1,0 +1,47 @@
+{
+  "$id": "https://raw.githubusercontent.com/kee007ney/2020Fall-BIOC-6223/master/Week01/travis_byrum_schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "array",
+      "uniqueItems": true,
+      "description": "Array of genomic data.",
+      "items": {
+        "type": "object",
+        "required": ["name", "length", "accession", "species"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of gene.",
+            "examples": [
+              "SHH"
+            ],
+            "minLength": 1
+          },
+          "length": {
+            "type": "integer",
+            "description": "Length in base pairs.",
+            "minimum": 0
+          },
+          "accession": {
+            "type": "string",
+            "description": "Accession number.",
+            "examples": [
+              "NG_007504"
+            ],
+            "minLength": 1
+          },
+          "species": {
+            "type": "string",
+            "description": "Organism species.",
+            "examples": [
+              "Homo sapiens"
+            ],
+            "minLength": 1
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "name": "AKT1",
+            "length": 26396,
+            "accession": "NG_012188",
+            "species": "Homo sapiens"
+        },
+        {
+            "name": "COI",
+            "length": 627,
+            "accession": "AB052253",
+            "species": "Octopus vulgaris"
+        },
+        {
+            "name": "IL6",
+            "length": 1276,
+            "accession": "AY170325",
+            "species": "Homo sapiens"
+        },
+        {
+            "name": "ACE2",
+            "length": 3339,
+            "accession": "NM_001371415",
+            "species": "Homo sapiens"
+        },
+        {
+            "name": "ZP3",
+            "length": 1383,
+            "accession": "FJ976890",
+            "species": "Carassius auratus"
+        }
+    ]
+}
