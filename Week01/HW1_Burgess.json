@@ -1,0 +1,23 @@
+{
+	"Gene": [{
+		"Gene_Name": "KLHL2",
+		"Gene_Length": 593,
+		"Gene_ID": "O95198"
+	}, {
+		"Gene_Name": "PPFIBP2",
+		"Gene_Length": 876,
+		"Gene_ID": "Q8ND30"
+	}, {
+		"Gene_Name": "ZNF496",
+		"Gene_Length": 587,
+		"Gene_ID": "Q96IT1"
+	}, {
+		"Gene_Name": "SGTB",
+		"Gene_Length": 304,
+		"Gene_ID": "Q96EQ0"
+	}, {
+		"Gene_Name": "FLACC1",
+		"Gene_Length": 445,
+		"Gene_ID": "Q96035"
+	}]
+}
