@@ -1,0 +1,33 @@
+{
+	"Genes": [{
+		"Symbol": "DAG1",
+		"Name": "Dystroglycan 1",
+		"BP": 5683,
+		"Accession": "NM_001177644",
+		"Species": "Homo sapiens"
+	}, {
+		"Symbol": "ARG1",
+		"Name": "Arginase 1",
+		"BP": 1977,
+		"Accession": "AB047402",
+		"Species": "Mus musculus"
+	}, {
+		"Symbol": "AR",
+		"Name": "Androgen receptor",
+		"BP": 193588,
+		"Accession": "NG_009014",
+		"Species": "Homo sapiens"
+	}, {
+		"Symbol": "TST",
+		"Name": "Thiosulfate sulfurtransferase",
+		"BP": 1125,
+		"Accession": "NM_003312",
+		"Species": "Homo sapiens"
+	}, {
+		"Symbol": "pLIN-GEN",
+		"Name": "Linamarase",
+		"BP": 2782,
+		"Accession": "U95298",
+		"Species": "Manihot esculenta"
+	}]
+}
