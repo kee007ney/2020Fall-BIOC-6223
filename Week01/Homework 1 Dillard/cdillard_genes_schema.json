@@ -30,7 +30,7 @@
 				},
 				"gene_accs": {
 					"type": "string",
-					"description": "Gene accension number."
+					"description": "Gene accession number."
 				}
 			}
 		}
