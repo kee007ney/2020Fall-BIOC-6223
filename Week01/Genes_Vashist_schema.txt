@@ -1,0 +1,38 @@
+{
+	“$schema”: "http://json-schema.org/draft-07/schema#",
+	“$id”: "http://json-schema.org/draft-07/schema#",
+	"title": "Genes_Vashist_schema",
+	“type”: “object”,
+	“required”: [“Symbol”, “Name”, “BP”, “Accession”, “Species”],
+	“properties”: {
+		"Symbol": {
+			"type" : "string",
+			"examples" : [
+				"DAG1"
+			]
+		},
+		"Name": {
+			"type" : "string",
+			"examples" : [
+				"Dystroglycan 1"
+			]
+		},
+		"BP": {
+			"type" : "integer",
+			"examples" : [
+				5683
+			]
+		},
+		"Accession": {
+			"type" : "string",
+			"examples" : [
+				"NM_001177644"
+			]
+		},
+		"Species": {
+			"type" : "string",
+			"examples" : [
+				"Homo sapiens"
+			]
+		}
+}
