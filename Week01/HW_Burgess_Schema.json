@@ -1,0 +1,30 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id": "https://github.com/kee007ney/2020Fall-BIOC-6223/new/master/Week01/HW1_Burgess_Schema.json",
+	"type": "object",
+	"required": [
+		"Gene_Name",
+		"Gene_Length",
+		"Gene_Accession"
+	],
+	"properties": {
+		"Gene_Name": {
+			"type": "string",
+			"examples": [
+				"KLHL2"
+			]
+		},
+		"Gene_Length": {
+			"type": "integer",
+			"examples": [
+				593
+			]
+		},
+		"Gene_Accession": {
+			"type": "string",
+			"examples": [
+				"095198"
+			]
+		}
+	}
+}
