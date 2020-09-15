@@ -1,0 +1,121 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "Tyson's Favorite Genes": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "Gene_1": {
+              "type": "object",
+              "properties": {
+                "Name": {
+                  "type": "string"
+                },
+                "Length": {
+                  "type": "integer"
+                },
+                "Accession": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Name",
+                "Length",
+                "Accession"
+              ]
+            },
+            "Gene_2": {
+              "type": "object",
+              "properties": {
+                "Name": {
+                  "type": "string"
+                },
+                "Length": {
+                  "type": "integer"
+                },
+                "Accession": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Name",
+                "Length",
+                "Accession"
+              ]
+            },
+            "Gene_3": {
+              "type": "object",
+              "properties": {
+                "Name": {
+                  "type": "string"
+                },
+                "Length": {
+                  "type": "integer"
+                },
+                "Accession": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Name",
+                "Length",
+                "Accession"
+              ]
+            },
+            "Gene_4": {
+              "type": "object",
+              "properties": {
+                "Name": {
+                  "type": "string"
+                },
+                "Length": {
+                  "type": "integer"
+                },
+                "Accession": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Name",
+                "Length",
+                "Accession"
+              ]
+            },
+            "Gene_5": {
+              "type": "object",
+              "properties": {
+                "Name": {
+                  "type": "string"
+                },
+                "Length": {
+                  "type": "integer"
+                },
+                "Accession": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Name",
+                "Length",
+                "Accession"
+              ]
+            }
+          },
+          "required": [
+            "Gene_1",
+            "Gene_2",
+            "Gene_3",
+            "Gene_4",
+            "Gene_5"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "Tyson's Favorite Genes"
+  ]
+}
