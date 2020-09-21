@@ -1,0 +1,17 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id": "http://github.com/penningtonea/2020Fall-BIOC-6223/Week01/emily_pennington_schema",
+	"title": "Genomic_data",
+	"description": "The following information was taken from NCBI.gov for 5 different genes of interest.",
+	"type": "object",
+		"properties": {
+			"gene_of_interest":	{"type": "string"},
+			"bp_length":		{"type": "number"},
+			"NCBI_accession":	{"type": "string"}
+			},
+		"required": [
+			"gene_of_interest",
+			"bp_length",
+			"NCBI_accession"
+		]
+	}
