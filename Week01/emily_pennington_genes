@@ -1,0 +1,24 @@
+
+{
+  "genomic_data": [{
+	 "gene_of_interest": "EGFR",
+	 "bp_length": 159345973,
+	 "NCBI_accession": "NC_000007"
+	},{
+	 "gene_of_interest": "ACE2",
+	 "bp_length": 83962,
+	 "NCBI_accession": "NC_000023"
+	},{
+	 "gene_of_interest": "TUBB2A",
+	 "bp_length": 170805979,
+	 "NCBI_accession": "NC_000006"
+	},{
+	 "gene_of_interest": "FMR1",
+	 "bp_length": 39207,
+	 "NCBI_accession": "NC_000023"
+	},{
+	 "gene_of_interest": "KRAS",
+	 "bp_length": 133275309,
+	 "NCBI_accession": "NC_000012"
+	}]
+}
